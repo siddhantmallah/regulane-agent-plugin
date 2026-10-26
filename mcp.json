@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "regulane": {
+      "url": "https://regulane.com/api/mcp"
+    }
+  }
+}

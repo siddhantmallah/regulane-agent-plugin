@@ -1,0 +1,18 @@
+{
+  "name": "regulane",
+  "owner": {
+    "name": "Regulane",
+    "email": "support@regulane.com"
+  },
+  "metadata": {
+    "description": "Regulane plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "regulane",
+      "source": "./",
+      "description": "Free compliance check for your code: secure-coding rules mapped to ISO 27001 and the DPDP Act, and a scorecard of what your agent finds.",
+      "homepage": "https://regulane.com/coding-agents"
+    }
+  ]
+}

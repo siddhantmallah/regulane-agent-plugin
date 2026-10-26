@@ -1,0 +1,11 @@
+{
+  "name": "regulane",
+  "version": "1.0.0",
+  "description": "Free compliance check for your code: secure-coding rules mapped to ISO 27001 and the DPDP Act, and a scorecard of what Gemini finds.",
+  "mcpServers": {
+    "regulane": {
+      "httpUrl": "https://regulane.com/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
